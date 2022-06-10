@@ -1,0 +1,64 @@
+{
+  "todos": [
+    {
+      "title": "Redux",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "Apple",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Mac",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Cupcake",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Cupcake",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Yes",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "aasdas",
+      "status": false,
+      "id": 7
+    },
+    {
+      "title": "Soumya Hakke",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "Abc",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Abcdef",
+      "status": false,
+      "id": 10
+    },
+    {
+      "title": "Abcdef",
+      "status": false,
+      "id": 11
+    },
+    {
+      "title": "Abcdefedfae",
+      "status": false,
+      "id": 12
+    }
+  ]
+}
